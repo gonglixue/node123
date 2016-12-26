@@ -4,3 +4,5 @@
 
 ### 简单实践
 * [webpack + vue 项目实践](http://jiongks.name/blog/just-vue/)。。。（x）
+* [vuex note app](https://segmentfault.com/a/1190000005891026?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [cwsjoker 的 SPA应用，无server](https://github.com/cwsjoker/webpack-vue-spa-demo)
