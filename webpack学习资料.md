@@ -6,3 +6,6 @@
 * [webpack + vue 项目实践](http://jiongks.name/blog/just-vue/)。。。（x）
 * [vuex note app](https://segmentfault.com/a/1190000005891026?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [cwsjoker 的 SPA应用，无server](https://github.com/cwsjoker/webpack-vue-spa-demo)
+
+### 进阶
+* [vue官方demo(vuex)](https://github.com/vuejs/vue-hackernews-2.0)
